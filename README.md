@@ -1,6 +1,8 @@
 # Google-Bard-Terminal
 just a basic script that will let you use Google Bard in a Terminal like my GPT4-Terminal system
 
+This uses a import called bardapi, to get that just run "pip install bardapi"
+
 To use it open the "Bard.py" file and place your "__Secure-1PSID" key where it says "__Secure-1PSID-Key-Here"
 
 To get your "__Secure-1PSID" key you need to
