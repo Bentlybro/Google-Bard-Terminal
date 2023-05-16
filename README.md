@@ -14,5 +14,6 @@ Then just start the script with "python Bard.py" and start writing, you can use 
 
 Then just wait for the reply, some times the reply may take a while depending on how much text you send it.
 
-Credit to the people who made "bardapi"
-https://github.com/dsdanielpark/Bard-API
+
+![BardAPI](https://img.shields.io/badge/pypi-BardAPI-black)
+<a href="https://github.com/dsdanielpark/Bard-API"><img alt="PyPI package" src="https://img.shields.io/badge/pypi-BardAPI-black"></a>
