@@ -13,3 +13,6 @@ To get your "__Secure-1PSID" key you need to
 Then just start the script with "python Bard.py" and start writing, you can use the enter key to make a new line meaning you can copy and paste chunks of code into this script to be sent to Bard, once you have finished writing and want to send the request to Bard you NEED to press enter to make a clear new line and type "!fin" and press enter, that acts as the finish command to send the text to Bard.
 
 Then just wait for the reply, some times the reply may take a while depending on how much text you send it.
+
+Credit to the people who made "bardapi"
+https://github.com/dsdanielpark/Bard-API
